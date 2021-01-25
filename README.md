@@ -1,6 +1,6 @@
 # perl-5320
 
-Perl 5.32.0 (via Perlbrew)
+Perl 5.32.0 (with curated pre-installed distributions)
 
 ## PROVIDES
 
