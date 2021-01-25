@@ -1,6 +1,6 @@
-# perl-5320
+# perl-b8sd
 
-Perl 5.32.0 (with curated pre-installed distributions)
+Perl 5.32.0 (based) (with curated pre-installed distributions)
 
 ## PROVIDES
 
